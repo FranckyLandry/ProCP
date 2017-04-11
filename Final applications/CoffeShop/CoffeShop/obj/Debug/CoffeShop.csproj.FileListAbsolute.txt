@@ -1,0 +1,39 @@
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.CoffeeShopKassa.resources
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\Ngabo\Desktop\PCS3etudes\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.CoffeeShopKassa.resources
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\Ishant\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.CoffeeShopKassa.resources
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\Ngabo\Desktop\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe.config
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.exe
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.pdb
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\bin\Debug\CoffeShop.exe
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\bin\Debug\CoffeShop.pdb
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csprojResolveAssemblyReference.cache
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.CoffeeShopKassa.resources
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Form1.resources
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.Properties.Resources.resources
+C:\Users\Ngabo\Desktop\Final applications\CoffeShop\CoffeShop\obj\Debug\CoffeShop.csproj.GenerateResource.Cache

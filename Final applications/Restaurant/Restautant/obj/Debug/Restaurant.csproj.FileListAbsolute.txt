@@ -1,0 +1,10 @@
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\bin\Debug\Restautant.exe.config
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\bin\Debug\Restautant.exe
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\bin\Debug\Restautant.pdb
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restautant.PayementForm.resources
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restautant.Form1.resources
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restautant.Properties.Resources.resources
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restautant.exe
+C:\Users\Ngabo\Desktop\PCS3etudes\Restaurant\Restautant\obj\Debug\Restautant.pdb
